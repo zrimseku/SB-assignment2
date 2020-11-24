@@ -1,0 +1,750 @@
+AWEForSegmentation/train/0001.png  1  217 165 22 61
+AWEForSegmentation/train/0002.png  1  64 311 19 36
+AWEForSegmentation/train/0003.png  1  81 230 14 32
+AWEForSegmentation/train/0004.png  1  127 291 26 49
+AWEForSegmentation/train/0005.png  1  112 89 62 52
+AWEForSegmentation/train/0006.png  1  77 280 31 48
+AWEForSegmentation/train/0007.png  1  137 154 33 68
+AWEForSegmentation/train/0008.png  1  114 296 30 77
+AWEForSegmentation/train/0009.png  1  116 167 27 65
+AWEForSegmentation/train/0010.png  2  153 420 34 50   118 47 77 91
+AWEForSegmentation/train/0011.png  2  104 276 33 65   121 119 17 56
+AWEForSegmentation/train/0012.png  2  93 302 21 51   109 130 35 49
+AWEForSegmentation/train/0013.png  2  104 276 22 78   126 96 39 78
+AWEForSegmentation/train/0014.png  2  83 327 44 65   114 119 44 58
+AWEForSegmentation/train/0015.png  2  110 172 26 91   144 318 29 85
+AWEForSegmentation/train/0016.png  2  99 197 15 58   118 308 30 58
+AWEForSegmentation/train/0017.png  2  123 314 42 59   149 142 23 46
+AWEForSegmentation/train/0018.png  1  88 302 50 40
+AWEForSegmentation/train/0019.png  1  107 310 52 40
+AWEForSegmentation/train/0020.png  1  127 139 25 66
+AWEForSegmentation/train/0021.png  1  111 93 47 53
+AWEForSegmentation/train/0022.png  1  77 117 53 41
+AWEForSegmentation/train/0023.png  1  155 325 51 84
+AWEForSegmentation/train/0024.png  1  141 140 54 93
+AWEForSegmentation/train/0025.png  2  146 342 18 61   133 190 28 82
+AWEForSegmentation/train/0026.png  1  133 390 24 62
+AWEForSegmentation/train/0027.png  1  3 128 49 85
+AWEForSegmentation/train/0028.png  1  61 293 19 30
+AWEForSegmentation/train/0029.png  1  104 295 20 39
+AWEForSegmentation/train/0030.png  1  101 297 21 49
+AWEForSegmentation/train/0031.png  1  128 323 60 47
+AWEForSegmentation/train/0032.png  2  133 142 29 77   140 316 23 70
+AWEForSegmentation/train/0033.png  1  80 201 39 33
+AWEForSegmentation/train/0034.png  1  82 287 15 42
+AWEForSegmentation/train/0035.png  1  142 177 28 53
+AWEForSegmentation/train/0036.png  1  95 164 28 64
+AWEForSegmentation/train/0037.png  2  55 149 36 27   81 362 16 25
+AWEForSegmentation/train/0038.png  1  121 321 52 91
+AWEForSegmentation/train/0039.png  1  68 321 38 99
+AWEForSegmentation/train/0040.png  1  115 293 74 53
+AWEForSegmentation/train/0041.png  2  119 339 16 55   129 109 33 51
+AWEForSegmentation/train/0042.png  1  120 374 26 64
+AWEForSegmentation/train/0043.png  1  160 284 74 79
+AWEForSegmentation/train/0044.png  1  126 324 49 86
+AWEForSegmentation/train/0045.png  1  145 396 47 46
+AWEForSegmentation/train/0046.png  1  101 47 74 67
+AWEForSegmentation/train/0047.png  1  90 59 24 38
+AWEForSegmentation/train/0048.png  2  142 116 26 52   141 339 43 53
+AWEForSegmentation/train/0049.png  1  118 380 71 68
+AWEForSegmentation/train/0050.png  1  122 69 73 49
+AWEForSegmentation/train/0051.png  1  138 170 25 52
+AWEForSegmentation/train/0052.png  1  136 356 34 59
+AWEForSegmentation/train/0053.png  1  176 301 34 47
+AWEForSegmentation/train/0054.png  1  122 396 32 54
+AWEForSegmentation/train/0055.png  1  151 97 38 46
+AWEForSegmentation/train/0056.png  1  137 360 54 77
+AWEForSegmentation/train/0057.png  1  118 68 51 96
+AWEForSegmentation/train/0058.png  1  134 271 53 47
+AWEForSegmentation/train/0059.png  1  120 261 26 51
+AWEForSegmentation/train/0060.png  1  77 175 20 46
+AWEForSegmentation/train/0061.png  1  111 98 27 73
+AWEForSegmentation/train/0062.png  1  152 254 27 81
+AWEForSegmentation/train/0063.png  1  118 364 61 69
+AWEForSegmentation/train/0064.png  2  72 170 21 28   61 247 34 45
+AWEForSegmentation/train/0065.png  1  162 313 30 82
+AWEForSegmentation/train/0066.png  1  101 353 25 64
+AWEForSegmentation/train/0067.png  1  128 241 23 65
+AWEForSegmentation/train/0068.png  1  176 335 26 59
+AWEForSegmentation/train/0069.png  1  149 75 44 59
+AWEForSegmentation/train/0070.png  1  64 321 68 144
+AWEForSegmentation/train/0071.png  1  146 30 115 129
+AWEForSegmentation/train/0072.png  1  74 62 37 62
+AWEForSegmentation/train/0073.png  2  110 307 25 56   118 134 33 53
+AWEForSegmentation/train/0074.png  1  98 91 37 69
+AWEForSegmentation/train/0075.png  1  139 324 42 81
+AWEForSegmentation/train/0076.png  2  67 339 20 109   99 80 45 103
+AWEForSegmentation/train/0077.png  1  103 335 22 57
+AWEForSegmentation/train/0078.png  1  133 134 40 83
+AWEForSegmentation/train/0079.png  1  138 55 34 51
+AWEForSegmentation/train/0080.png  1  91 112 43 33
+AWEForSegmentation/train/0081.png  1  131 372 34 59
+AWEForSegmentation/train/0082.png  1  160 309 36 50
+AWEForSegmentation/train/0083.png  1  166 137 51 73
+AWEForSegmentation/train/0084.png  1  87 268 50 37
+AWEForSegmentation/train/0085.png  1  124 273 24 38
+AWEForSegmentation/train/0086.png  1  45 85 79 143
+AWEForSegmentation/train/0087.png  1  152 345 34 58
+AWEForSegmentation/train/0088.png  1  75 336 41 132
+AWEForSegmentation/train/0089.png  1  109 352 47 77
+AWEForSegmentation/train/0090.png  1  100 318 52 51
+AWEForSegmentation/train/0091.png  1  148 298 41 61
+AWEForSegmentation/train/0092.png  1  119 333 51 71
+AWEForSegmentation/train/0093.png  1  143 130 46 76
+AWEForSegmentation/train/0094.png  1  93 258 10 25
+AWEForSegmentation/train/0095.png  1  52 162 20 40
+AWEForSegmentation/train/0096.png  1  184 330 19 64
+AWEForSegmentation/train/0097.png  1  87 79 32 57
+AWEForSegmentation/train/0098.png  1  104 307 31 55
+AWEForSegmentation/train/0099.png  1  213 267 31 45
+AWEForSegmentation/train/0100.png  1  122 293 49 78
+AWEForSegmentation/train/0101.png  1  99 340 54 103
+AWEForSegmentation/train/0102.png  1  119 72 56 56
+AWEForSegmentation/train/0103.png  1  120 125 18 47
+AWEForSegmentation/train/0104.png  1  126 134 39 69
+AWEForSegmentation/train/0105.png  1  105 333 17 43
+AWEForSegmentation/train/0106.png  1  97 274 30 38
+AWEForSegmentation/train/0107.png  1  87 318 41 82
+AWEForSegmentation/train/0108.png  1  121 352 40 88
+AWEForSegmentation/train/0109.png  1  172 91 49 51
+AWEForSegmentation/train/0110.png  1  128 128 25 60
+AWEForSegmentation/train/0111.png  1  118 301 30 62
+AWEForSegmentation/train/0112.png  1  155 355 23 42
+AWEForSegmentation/train/0113.png  1  110 88 35 63
+AWEForSegmentation/train/0114.png  1  116 38 26 46
+AWEForSegmentation/train/0115.png  1  121 284 20 61
+AWEForSegmentation/train/0116.png  1  104 232 57 102
+AWEForSegmentation/train/0117.png  1  161 330 49 88
+AWEForSegmentation/train/0118.png  1  147 180 45 85
+AWEForSegmentation/train/0119.png  1  103 310 35 49
+AWEForSegmentation/train/0120.png  1  88 196 31 91
+AWEForSegmentation/train/0121.png  1  82 235 34 64
+AWEForSegmentation/train/0122.png  1  96 377 37 43
+AWEForSegmentation/train/0123.png  1  105 253 30 77
+AWEForSegmentation/train/0124.png  1  101 147 17 25
+AWEForSegmentation/train/0125.png  1  101 305 15 35
+AWEForSegmentation/train/0126.png  1  169 308 25 68
+AWEForSegmentation/train/0127.png  1  130 31 30 52
+AWEForSegmentation/train/0128.png  1  170 76 51 102
+AWEForSegmentation/train/0129.png  1  145 97 32 74
+AWEForSegmentation/train/0130.png  1  121 303 21 61
+AWEForSegmentation/train/0131.png  1  164 380 30 82
+AWEForSegmentation/train/0132.png  2  85 383 58 60   112 107 35 57
+AWEForSegmentation/train/0133.png  1  173 133 40 61
+AWEForSegmentation/train/0134.png  1  133 275 18 43
+AWEForSegmentation/train/0135.png  1  127 167 27 40
+AWEForSegmentation/train/0136.png  2  119 354 19 39   114 112 33 53
+AWEForSegmentation/train/0137.png  1  161 149 40 74
+AWEForSegmentation/train/0138.png  1  152 282 21 46
+AWEForSegmentation/train/0139.png  2  88 331 32 119   150 50 57 111
+AWEForSegmentation/train/0140.png  1  75 197 18 34
+AWEForSegmentation/train/0141.png  1  125 132 31 66
+AWEForSegmentation/train/0142.png  1  63 314 31 28
+AWEForSegmentation/train/0143.png  1  64 110 18 27
+AWEForSegmentation/train/0144.png  1  131 389 25 64
+AWEForSegmentation/train/0145.png  1  108 155 19 61
+AWEForSegmentation/train/0146.png  1  35 305 35 87
+AWEForSegmentation/train/0147.png  1  69 365 12 20
+AWEForSegmentation/train/0148.png  1  74 396 37 87
+AWEForSegmentation/train/0149.png  1  114 147 28 47
+AWEForSegmentation/train/0150.png  1  111 135 36 62
+AWEForSegmentation/train/0151.png  2  87 309 12 45   100 141 30 44
+AWEForSegmentation/train/0152.png  1  93 150 19 57
+AWEForSegmentation/train/0153.png  1  86 300 38 50
+AWEForSegmentation/train/0154.png  1  65 335 41 40
+AWEForSegmentation/train/0155.png  1  107 76 48 47
+AWEForSegmentation/train/0156.png  1  170 186 27 58
+AWEForSegmentation/train/0157.png  2  65 272 14 35   82 205 9 32
+AWEForSegmentation/train/0158.png  1  57 302 24 35
+AWEForSegmentation/train/0159.png  1  88 128 34 59
+AWEForSegmentation/train/0160.png  1  52 168 24 24
+AWEForSegmentation/train/0161.png  1  119 328 44 70
+AWEForSegmentation/train/0162.png  1  84 122 20 49
+AWEForSegmentation/train/0163.png  1  111 225 29 69
+AWEForSegmentation/train/0164.png  2  69 240 8 35   85 318 17 32
+AWEForSegmentation/train/0165.png  2  134 293 33 78   163 115 26 73
+AWEForSegmentation/train/0166.png  1  118 114 36 63
+AWEForSegmentation/train/0167.png  1  137 162 29 61
+AWEForSegmentation/train/0168.png  2  113 375 15 63   115 216 21 62
+AWEForSegmentation/train/0169.png  1  101 333 51 58
+AWEForSegmentation/train/0170.png  1  142 85 42 78
+AWEForSegmentation/train/0171.png  1  99 398 45 64
+AWEForSegmentation/train/0172.png  1  140 28 48 79
+AWEForSegmentation/train/0173.png  1  108 360 58 72
+AWEForSegmentation/train/0174.png  1  109 357 46 66
+AWEForSegmentation/train/0175.png  1  114 84 47 57
+AWEForSegmentation/train/0176.png  1  128 129 41 71
+AWEForSegmentation/train/0177.png  1  108 382 29 65
+AWEForSegmentation/train/0178.png  1  137 400 33 65
+AWEForSegmentation/train/0179.png  1  84 94 50 112
+AWEForSegmentation/train/0180.png  1  140 304 27 57
+AWEForSegmentation/train/0181.png  1  123 325 35 48
+AWEForSegmentation/train/0182.png  1  170 224 36 49
+AWEForSegmentation/train/0183.png  1  102 138 31 34
+AWEForSegmentation/train/0184.png  1  119 303 25 49
+AWEForSegmentation/train/0185.png  1  188 325 50 83
+AWEForSegmentation/train/0186.png  1  108 383 66 49
+AWEForSegmentation/train/0187.png  1  89 160 36 48
+AWEForSegmentation/train/0188.png  1  128 317 41 72
+AWEForSegmentation/train/0189.png  2  152 309 26 76   162 155 31 70
+AWEForSegmentation/train/0190.png  1  66 175 25 64
+AWEForSegmentation/train/0191.png  1  70 169 31 27
+AWEForSegmentation/train/0192.png  1  160 291 22 23
+AWEForSegmentation/train/0193.png  1  104 257 28 62
+AWEForSegmentation/train/0194.png  1  93 307 51 60
+AWEForSegmentation/train/0195.png  1  107 147 35 39
+AWEForSegmentation/train/0196.png  1  122 248 25 35
+AWEForSegmentation/train/0197.png  1  155 90 56 61
+AWEForSegmentation/train/0198.png  1  115 23 61 100
+AWEForSegmentation/train/0199.png  1  98 286 27 45
+AWEForSegmentation/train/0200.png  1  112 78 51 44
+AWEForSegmentation/train/0201.png  1  121 163 35 49
+AWEForSegmentation/train/0202.png  2  119 84 20 80   124 235 11 79
+AWEForSegmentation/train/0203.png  1  116 353 25 62
+AWEForSegmentation/train/0204.png  1  91 311 19 47
+AWEForSegmentation/train/0205.png  1  99 217 17 45
+AWEForSegmentation/train/0206.png  1  139 36 66 129
+AWEForSegmentation/train/0207.png  1  87 267 15 47
+AWEForSegmentation/train/0208.png  1  121 355 42 42
+AWEForSegmentation/train/0209.png  1  86 87 21 59
+AWEForSegmentation/train/0210.png  1  90 120 58 50
+AWEForSegmentation/train/0211.png  1  104 276 38 53
+AWEForSegmentation/train/0212.png  1  104 349 29 82
+AWEForSegmentation/train/0213.png  1  110 374 53 75
+AWEForSegmentation/train/0214.png  1  116 91 47 85
+AWEForSegmentation/train/0215.png  2  105 338 30 45   111 165 19 44
+AWEForSegmentation/train/0216.png  1  132 355 33 65
+AWEForSegmentation/train/0217.png  2  96 71 30 48   103 284 21 47
+AWEForSegmentation/train/0218.png  1  90 278 22 42
+AWEForSegmentation/train/0219.png  1  131 339 22 72
+AWEForSegmentation/train/0220.png  1  159 105 36 62
+AWEForSegmentation/train/0221.png  2  119 126 28 71   133 336 30 69
+AWEForSegmentation/train/0222.png  1  146 335 28 54
+AWEForSegmentation/train/0223.png  1  109 149 21 52
+AWEForSegmentation/train/0224.png  1  121 154 29 83
+AWEForSegmentation/train/0225.png  1  108 315 35 44
+AWEForSegmentation/train/0226.png  1  87 77 38 50
+AWEForSegmentation/train/0227.png  1  78 51 56 62
+AWEForSegmentation/train/0228.png  1  49 146 25 30
+AWEForSegmentation/train/0229.png  2  114 275 14 62   120 169 16 60
+AWEForSegmentation/train/0230.png  1  136 291 26 69
+AWEForSegmentation/train/0231.png  1  108 357 45 84
+AWEForSegmentation/train/0232.png  1  105 119 22 45
+AWEForSegmentation/train/0233.png  1  115 411 58 69
+AWEForSegmentation/train/0234.png  1  118 405 67 146
+AWEForSegmentation/train/0235.png  1  94 133 37 45
+AWEForSegmentation/train/0236.png  1  86 333 37 69
+AWEForSegmentation/train/0237.png  1  109 360 36 68
+AWEForSegmentation/train/0238.png  1  136 47 74 71
+AWEForSegmentation/train/0239.png  1  139 104 36 88
+AWEForSegmentation/train/0240.png  1  80 139 14 24
+AWEForSegmentation/train/0241.png  1  129 429 50 87
+AWEForSegmentation/train/0242.png  1  97 287 27 41
+AWEForSegmentation/train/0243.png  2  153 270 32 78   184 66 29 74
+AWEForSegmentation/train/0244.png  1  96 168 31 39
+AWEForSegmentation/train/0245.png  1  89 317 37 39
+AWEForSegmentation/train/0246.png  1  115 53 48 54
+AWEForSegmentation/train/0247.png  1  22 0 72 129
+AWEForSegmentation/train/0248.png  1  135 282 20 21
+AWEForSegmentation/train/0249.png  1  85 296 21 39
+AWEForSegmentation/train/0250.png  2  106 244 16 53   130 126 24 49
+AWEForSegmentation/train/0251.png  1  90 181 23 57
+AWEForSegmentation/train/0252.png  1  90 349 38 112
+AWEForSegmentation/train/0253.png  1  41 357 81 181
+AWEForSegmentation/train/0254.png  1  97 24 81 184
+AWEForSegmentation/train/0255.png  1  111 142 24 77
+AWEForSegmentation/train/0256.png  1  128 198 31 62
+AWEForSegmentation/train/0257.png  1  153 318 24 24
+AWEForSegmentation/train/0258.png  1  140 384 47 92
+AWEForSegmentation/train/0259.png  1  118 394 34 56
+AWEForSegmentation/train/0260.png  1  137 83 70 53
+AWEForSegmentation/train/0261.png  1  135 417 22 37
+AWEForSegmentation/train/0262.png  1  135 398 37 67
+AWEForSegmentation/train/0263.png  1  94 176 24 48
+AWEForSegmentation/train/0264.png  1  155 50 64 94
+AWEForSegmentation/train/0265.png  1  96 340 19 34
+AWEForSegmentation/train/0266.png  1  136 81 31 72
+AWEForSegmentation/train/0267.png  1  140 140 30 53
+AWEForSegmentation/train/0268.png  1  108 260 23 47
+AWEForSegmentation/train/0269.png  1  139 376 42 57
+AWEForSegmentation/train/0270.png  1  125 380 35 86
+AWEForSegmentation/train/0271.png  1  104 170 33 49
+AWEForSegmentation/train/0272.png  1  94 176 29 53
+AWEForSegmentation/train/0273.png  1  149 91 46 46
+AWEForSegmentation/train/0274.png  1  143 262 25 58
+AWEForSegmentation/train/0275.png  2  162 328 21 70   204 158 32 65
+AWEForSegmentation/train/0276.png  1  88 264 23 60
+AWEForSegmentation/train/0277.png  1  198 134 28 58
+AWEForSegmentation/train/0278.png  1  102 221 20 55
+AWEForSegmentation/train/0279.png  1  63 320 18 51
+AWEForSegmentation/train/0280.png  1  157 83 34 70
+AWEForSegmentation/train/0281.png  1  95 413 24 28
+AWEForSegmentation/train/0282.png  1  97 186 20 43
+AWEForSegmentation/train/0283.png  1  124 392 30 91
+AWEForSegmentation/train/0284.png  1  137 49 25 87
+AWEForSegmentation/train/0285.png  1  91 144 25 42
+AWEForSegmentation/train/0286.png  1  110 355 56 64
+AWEForSegmentation/train/0287.png  1  128 272 32 77
+AWEForSegmentation/train/0288.png  1  43 300 18 35
+AWEForSegmentation/train/0289.png  1  110 129 36 59
+AWEForSegmentation/train/0290.png  2  67 127 22 51   137 264 33 39
+AWEForSegmentation/train/0291.png  1  68 363 19 40
+AWEForSegmentation/train/0292.png  1  135 300 22 55
+AWEForSegmentation/train/0293.png  2  127 58 38 75   126 381 19 78
+AWEForSegmentation/train/0294.png  1  99 42 80 126
+AWEForSegmentation/train/0295.png  1  141 313 45 77
+AWEForSegmentation/train/0296.png  1  141 363 56 73
+AWEForSegmentation/train/0297.png  1  180 323 26 42
+AWEForSegmentation/train/0298.png  1  82 175 25 49
+AWEForSegmentation/train/0299.png  1  181 305 59 68
+AWEForSegmentation/train/0300.png  1  130 390 62 68
+AWEForSegmentation/train/0301.png  1  114 162 29 51
+AWEForSegmentation/train/0302.png  2  113 150 17 53   127 16 32 52
+AWEForSegmentation/train/0303.png  1  174 236 23 42
+AWEForSegmentation/train/0304.png  1  118 38 89 62
+AWEForSegmentation/train/0305.png  1  108 185 41 50
+AWEForSegmentation/train/0306.png  1  110 264 35 55
+AWEForSegmentation/train/0307.png  1  107 123 40 57
+AWEForSegmentation/train/0308.png  1  98 221 23 42
+AWEForSegmentation/train/0309.png  1  60 280 24 44
+AWEForSegmentation/train/0310.png  1  57 144 18 27
+AWEForSegmentation/train/0311.png  2  83 179 11 41   86 277 10 42
+AWEForSegmentation/train/0312.png  1  105 240 25 58
+AWEForSegmentation/train/0313.png  1  97 411 34 65
+AWEForSegmentation/train/0314.png  1  95 259 34 66
+AWEForSegmentation/train/0315.png  1  107 132 39 67
+AWEForSegmentation/train/0316.png  1  200 430 26 34
+AWEForSegmentation/train/0317.png  1  114 233 21 48
+AWEForSegmentation/train/0318.png  1  118 279 15 22
+AWEForSegmentation/train/0319.png  2  140 259 18 68   148 104 19 62
+AWEForSegmentation/train/0320.png  1  149 320 31 44
+AWEForSegmentation/train/0321.png  1  142 269 36 70
+AWEForSegmentation/train/0322.png  1  109 235 26 64
+AWEForSegmentation/train/0323.png  1  100 263 22 34
+AWEForSegmentation/train/0324.png  2  106 337 21 32   101 169 24 39
+AWEForSegmentation/train/0325.png  2  120 359 23 43   117 80 55 59
+AWEForSegmentation/train/0326.png  1  122 55 68 56
+AWEForSegmentation/train/0327.png  1  119 359 45 48
+AWEForSegmentation/train/0328.png  1  116 349 47 65
+AWEForSegmentation/train/0329.png  2  104 342 32 93   119 163 24 90
+AWEForSegmentation/train/0330.png  2  120 366 41 59   123 100 31 59
+AWEForSegmentation/train/0331.png  1  129 336 46 67
+AWEForSegmentation/train/0332.png  1  94 394 38 107
+AWEForSegmentation/train/0333.png  1  107 262 26 39
+AWEForSegmentation/train/0334.png  2  96 111 30 59   108 315 16 51
+AWEForSegmentation/train/0335.png  1  113 279 24 66
+AWEForSegmentation/train/0336.png  1  98 141 44 41
+AWEForSegmentation/train/0337.png  1  102 363 30 51
+AWEForSegmentation/train/0338.png  1  143 436 38 80
+AWEForSegmentation/train/0339.png  1  125 227 27 57
+AWEForSegmentation/train/0340.png  1  151 58 42 82
+AWEForSegmentation/train/0341.png  1  115 314 28 81
+AWEForSegmentation/train/0342.png  1  99 213 19 46
+AWEForSegmentation/train/0343.png  2  111 318 32 75   119 168 14 72
+AWEForSegmentation/train/0344.png  1  95 133 36 47
+AWEForSegmentation/train/0345.png  1  147 69 51 132
+AWEForSegmentation/train/0346.png  2  110 121 32 67   110 333 27 68
+AWEForSegmentation/train/0347.png  1  104 281 35 74
+AWEForSegmentation/train/0348.png  2  104 327 36 55   110 132 18 52
+AWEForSegmentation/train/0349.png  1  155 109 63 63
+AWEForSegmentation/train/0350.png  1  91 272 30 55
+AWEForSegmentation/train/0351.png  1  113 342 37 70
+AWEForSegmentation/train/0352.png  1  81 272 32 32
+AWEForSegmentation/train/0353.png  1  78 308 22 31
+AWEForSegmentation/train/0354.png  1  89 53 60 40
+AWEForSegmentation/train/0355.png  1  110 312 36 62
+AWEForSegmentation/train/0356.png  1  104 101 71 52
+AWEForSegmentation/train/0357.png  2  136 300 20 58   161 146 20 47
+AWEForSegmentation/train/0358.png  1  75 289 46 79
+AWEForSegmentation/train/0359.png  1  121 303 32 37
+AWEForSegmentation/train/0360.png  1  121 174 20 53
+AWEForSegmentation/train/0361.png  1  131 53 51 66
+AWEForSegmentation/train/0362.png  1  148 298 40 82
+AWEForSegmentation/train/0363.png  1  123 112 29 56
+AWEForSegmentation/train/0364.png  2  136 231 9 39   134 99 22 42
+AWEForSegmentation/train/0365.png  1  121 358 29 67
+AWEForSegmentation/train/0366.png  1  120 178 22 46
+AWEForSegmentation/train/0367.png  1  111 98 32 50
+AWEForSegmentation/train/0368.png  1  148 352 59 109
+AWEForSegmentation/train/0369.png  1  128 98 45 66
+AWEForSegmentation/train/0370.png  1  117 334 41 58
+AWEForSegmentation/train/0371.png  1  89 154 34 44
+AWEForSegmentation/train/0372.png  1  80 374 25 58
+AWEForSegmentation/train/0373.png  1  119 429 21 55
+AWEForSegmentation/train/0374.png  1  101 296 22 51
+AWEForSegmentation/train/0375.png  1  120 116 29 72
+AWEForSegmentation/train/0376.png  1  124 287 34 71
+AWEForSegmentation/train/0377.png  1  105 188 27 53
+AWEForSegmentation/train/0378.png  1  92 269 23 68
+AWEForSegmentation/train/0379.png  1  133 347 31 74
+AWEForSegmentation/train/0380.png  1  79 141 27 34
+AWEForSegmentation/train/0381.png  1  155 82 43 74
+AWEForSegmentation/train/0382.png  1  127 349 76 61
+AWEForSegmentation/train/0383.png  1  123 163 28 67
+AWEForSegmentation/train/0384.png  1  115 419 31 46
+AWEForSegmentation/train/0385.png  1  52 416 41 110
+AWEForSegmentation/train/0386.png  1  136 46 38 68
+AWEForSegmentation/train/0387.png  1  131 411 43 49
+AWEForSegmentation/train/0388.png  1  99 216 12 27
+AWEForSegmentation/train/0389.png  1  109 174 35 55
+AWEForSegmentation/train/0390.png  1  111 122 24 85
+AWEForSegmentation/train/0391.png  1  143 43 43 75
+AWEForSegmentation/train/0392.png  1  108 365 53 45
+AWEForSegmentation/train/0393.png  1  103 319 38 51
+AWEForSegmentation/train/0394.png  1  92 140 31 38
+AWEForSegmentation/train/0395.png  1  155 19 44 85
+AWEForSegmentation/train/0396.png  1  129 267 36 100
+AWEForSegmentation/train/0397.png  1  144 367 60 81
+AWEForSegmentation/train/0398.png  1  123 337 54 64
+AWEForSegmentation/train/0399.png  1  97 281 30 83
+AWEForSegmentation/train/0400.png  1  157 302 43 76
+AWEForSegmentation/train/0401.png  2  107 135 22 102   98 325 30 111
+AWEForSegmentation/train/0402.png  1  118 163 30 58
+AWEForSegmentation/train/0403.png  1  88 347 40 65
+AWEForSegmentation/train/0404.png  1  166 48 41 82
+AWEForSegmentation/train/0405.png  1  86 343 54 58
+AWEForSegmentation/train/0406.png  1  98 366 50 114
+AWEForSegmentation/train/0407.png  1  82 20 39 107
+AWEForSegmentation/train/0408.png  2  14 295 20 34   125 79 33 66
+AWEForSegmentation/train/0409.png  1  123 298 70 60
+AWEForSegmentation/train/0410.png  1  92 117 36 92
+AWEForSegmentation/train/0411.png  1  137 370 38 68
+AWEForSegmentation/train/0412.png  1  95 409 47 54
+AWEForSegmentation/train/0413.png  1  74 265 40 36
+AWEForSegmentation/train/0414.png  1  106 90 56 47
+AWEForSegmentation/train/0415.png  1  61 152 25 55
+AWEForSegmentation/train/0416.png  1  69 245 45 43
+AWEForSegmentation/train/0417.png  1  127 453 28 42
+AWEForSegmentation/train/0418.png  1  136 27 40 90
+AWEForSegmentation/train/0419.png  1  145 332 27 81
+AWEForSegmentation/train/0420.png  1  140 311 33 87
+AWEForSegmentation/train/0421.png  1  96 299 38 34
+AWEForSegmentation/train/0422.png  1  175 301 32 81
+AWEForSegmentation/train/0423.png  1  85 209 22 32
+AWEForSegmentation/train/0424.png  1  63 110 41 123
+AWEForSegmentation/train/0425.png  1  134 296 25 71
+AWEForSegmentation/train/0426.png  1  114 226 17 59
+AWEForSegmentation/train/0427.png  1  107 67 48 60
+AWEForSegmentation/train/0428.png  1  144 97 37 94
+AWEForSegmentation/train/0429.png  1  103 422 47 40
+AWEForSegmentation/train/0430.png  1  136 222 37 65
+AWEForSegmentation/train/0431.png  1  170 317 25 26
+AWEForSegmentation/train/0432.png  1  104 171 17 43
+AWEForSegmentation/train/0433.png  1  109 257 23 63
+AWEForSegmentation/train/0434.png  1  93 299 20 50
+AWEForSegmentation/train/0435.png  1  119 62 78 66
+AWEForSegmentation/train/0436.png  1  92 288 62 55
+AWEForSegmentation/train/0437.png  1  150 92 55 88
+AWEForSegmentation/train/0438.png  1  107 365 56 88
+AWEForSegmentation/train/0439.png  1  114 369 68 73
+AWEForSegmentation/train/0440.png  2  74 199 28 64   130 71 29 59
+AWEForSegmentation/train/0441.png  1  140 398 57 68
+AWEForSegmentation/train/0442.png  1  99 277 30 52
+AWEForSegmentation/train/0443.png  2  110 94 45 60   130 364 40 56
+AWEForSegmentation/train/0444.png  1  106 318 43 100
+AWEForSegmentation/train/0445.png  1  117 282 28 60
+AWEForSegmentation/train/0446.png  1  88 109 49 39
+AWEForSegmentation/train/0447.png  1  150 310 32 68
+AWEForSegmentation/train/0448.png  1  129 50 36 61
+AWEForSegmentation/train/0449.png  1  90 77 34 52
+AWEForSegmentation/train/0450.png  1  130 305 53 73
+AWEForSegmentation/train/0451.png  1  45 255 21 54
+AWEForSegmentation/train/0452.png  1  61 293 26 36
+AWEForSegmentation/train/0453.png  1  92 137 30 51
+AWEForSegmentation/train/0454.png  1  74 115 30 47
+AWEForSegmentation/train/0455.png  1  122 119 30 52
+AWEForSegmentation/train/0456.png  1  80 293 47 40
+AWEForSegmentation/train/0457.png  1  108 166 23 66
+AWEForSegmentation/train/0458.png  1  150 385 42 53
+AWEForSegmentation/train/0459.png  1  133 237 24 77
+AWEForSegmentation/train/0460.png  1  157 359 38 83
+AWEForSegmentation/train/0461.png  1  116 351 29 57
+AWEForSegmentation/train/0462.png  1  98 325 46 55
+AWEForSegmentation/train/0463.png  1  118 59 67 48
+AWEForSegmentation/train/0464.png  1  121 369 34 83
+AWEForSegmentation/train/0465.png  1  111 94 27 67
+AWEForSegmentation/train/0466.png  1  147 174 27 72
+AWEForSegmentation/train/0467.png  1  32 376 42 106
+AWEForSegmentation/train/0468.png  1  124 321 43 92
+AWEForSegmentation/train/0469.png  1  82 318 28 37
+AWEForSegmentation/train/0470.png  1  107 104 61 60
+AWEForSegmentation/train/0471.png  2  121 168 14 74   128 292 27 75
+AWEForSegmentation/train/0472.png  1  100 95 25 61
+AWEForSegmentation/train/0473.png  2  130 331 23 47   130 88 45 51
+AWEForSegmentation/train/0474.png  1  137 69 49 95
+AWEForSegmentation/train/0475.png  1  85 98 32 54
+AWEForSegmentation/train/0476.png  1  153 84 48 107
+AWEForSegmentation/train/0477.png  1  108 320 32 56
+AWEForSegmentation/train/0478.png  1  133 383 37 79
+AWEForSegmentation/train/0479.png  1  160 314 25 71
+AWEForSegmentation/train/0480.png  1  136 269 27 63
+AWEForSegmentation/train/0481.png  1  121 335 34 78
+AWEForSegmentation/train/0482.png  1  123 137 38 63
+AWEForSegmentation/train/0483.png  1  145 73 30 93
+AWEForSegmentation/train/0484.png  1  132 352 29 42
+AWEForSegmentation/train/0485.png  2  121 293 32 89   142 120 19 83
+AWEForSegmentation/train/0486.png  1  110 336 45 49
+AWEForSegmentation/train/0487.png  1  121 125 33 55
+AWEForSegmentation/train/0488.png  1  119 258 54 46
+AWEForSegmentation/train/0489.png  1  107 322 35 70
+AWEForSegmentation/train/0490.png  1  126 108 27 51
+AWEForSegmentation/train/0491.png  1  159 341 36 65
+AWEForSegmentation/train/0492.png  1  130 81 52 97
+AWEForSegmentation/train/0493.png  2  129 74 31 99   137 220 18 98
+AWEForSegmentation/train/0494.png  2  101 297 22 73   125 164 27 67
+AWEForSegmentation/train/0495.png  1  108 103 49 62
+AWEForSegmentation/train/0496.png  1  68 365 51 132
+AWEForSegmentation/train/0497.png  1  142 328 36 99
+AWEForSegmentation/train/0498.png  1  71 306 27 54
+AWEForSegmentation/train/0499.png  1  122 242 15 35
+AWEForSegmentation/train/0500.png  1  137 119 24 58
+AWEForSegmentation/train/0501.png  1  117 275 28 73
+AWEForSegmentation/train/0502.png  2  65 116 13 37   104 350 15 34
+AWEForSegmentation/train/0503.png  1  122 407 38 92
+AWEForSegmentation/train/0504.png  1  112 348 39 88
+AWEForSegmentation/train/0505.png  1  84 114 35 51
+AWEForSegmentation/train/0506.png  1  152 315 44 75
+AWEForSegmentation/train/0507.png  1  74 210 20 84
+AWEForSegmentation/train/0508.png  1  152 273 66 55
+AWEForSegmentation/train/0509.png  1  119 296 26 69
+AWEForSegmentation/train/0510.png  1  119 88 47 65
+AWEForSegmentation/train/0511.png  1  82 296 19 50
+AWEForSegmentation/train/0512.png  1  100 78 50 70
+AWEForSegmentation/train/0513.png  1  129 221 27 60
+AWEForSegmentation/train/0514.png  1  120 355 54 66
+AWEForSegmentation/train/0515.png  1  0 335 65 141
+AWEForSegmentation/train/0516.png  1  120 128 32 53
+AWEForSegmentation/train/0517.png  1  83 160 21 39
+AWEForSegmentation/train/0518.png  1  157 341 35 69
+AWEForSegmentation/train/0519.png  1  102 309 32 73
+AWEForSegmentation/train/0520.png  1  103 327 43 66
+AWEForSegmentation/train/0521.png  1  77 301 25 37
+AWEForSegmentation/train/0522.png  1  108 387 31 51
+AWEForSegmentation/train/0523.png  1  159 43 26 48
+AWEForSegmentation/train/0524.png  2  83 258 7 30   68 135 17 58
+AWEForSegmentation/train/0525.png  1  118 374 40 69
+AWEForSegmentation/train/0526.png  1  81 49 58 100
+AWEForSegmentation/train/0527.png  1  55 351 49 91
+AWEForSegmentation/train/0528.png  1  54 293 14 26
+AWEForSegmentation/train/0529.png  1  14 285 43 99
+AWEForSegmentation/train/0530.png  1  98 132 47 41
+AWEForSegmentation/train/0531.png  1  153 293 51 61
+AWEForSegmentation/train/0532.png  1  115 134 25 71
+AWEForSegmentation/train/0533.png  1  99 69 51 52
+AWEForSegmentation/train/0534.png  1  160 51 88 70
+AWEForSegmentation/train/0535.png  1  157 137 42 62
+AWEForSegmentation/train/0536.png  2  86 178 19 34   93 313 24 33
+AWEForSegmentation/train/0537.png  1  179 60 70 89
+AWEForSegmentation/train/0538.png  2  102 99 20 45   111 328 48 45
+AWEForSegmentation/train/0539.png  1  171 303 52 82
+AWEForSegmentation/train/0540.png  2  87 54 15 48   118 215 27 70
+AWEForSegmentation/train/0541.png  1  123 336 57 50
+AWEForSegmentation/train/0542.png  1  68 359 45 112
+AWEForSegmentation/train/0543.png  1  101 421 51 109
+AWEForSegmentation/train/0544.png  1  5 132 60 124
+AWEForSegmentation/train/0545.png  1  101 97 21 31
+AWEForSegmentation/train/0546.png  1  151 102 24 52
+AWEForSegmentation/train/0547.png  2  0 18 29 28   89 293 28 35
+AWEForSegmentation/train/0548.png  1  87 78 42 46
+AWEForSegmentation/train/0549.png  1  120 112 38 49
+AWEForSegmentation/train/0550.png  1  84 111 28 62
+AWEForSegmentation/train/0551.png  1  55 167 34 39
+AWEForSegmentation/train/0552.png  2  138 313 49 63   155 60 26 60
+AWEForSegmentation/train/0553.png  2  96 126 17 58   100 328 43 58
+AWEForSegmentation/train/0554.png  1  103 330 55 55
+AWEForSegmentation/train/0555.png  1  115 142 27 70
+AWEForSegmentation/train/0556.png  1  109 339 28 77
+AWEForSegmentation/train/0557.png  2  83 233 12 59   85 114 21 59
+AWEForSegmentation/train/0558.png  1  125 357 27 55
+AWEForSegmentation/train/0559.png  1  108 133 34 60
+AWEForSegmentation/train/0560.png  2  91 187 18 27   121 392 16 19
+AWEForSegmentation/train/0561.png  1  172 29 29 61
+AWEForSegmentation/train/0562.png  1  99 298 53 67
+AWEForSegmentation/train/0563.png  1  144 295 37 26
+AWEForSegmentation/train/0564.png  2  44 158 22 54   76 343 24 56
+AWEForSegmentation/train/0565.png  1  96 82 30 79
+AWEForSegmentation/train/0566.png  1  56 353 19 33
+AWEForSegmentation/train/0567.png  1  109 153 23 67
+AWEForSegmentation/train/0568.png  1  111 51 69 84
+AWEForSegmentation/train/0569.png  1  98 66 39 73
+AWEForSegmentation/train/0570.png  1  128 122 43 114
+AWEForSegmentation/train/0571.png  1  96 313 63 66
+AWEForSegmentation/train/0572.png  1  120 365 67 65
+AWEForSegmentation/train/0573.png  1  117 49 72 68
+AWEForSegmentation/train/0574.png  1  123 301 62 63
+AWEForSegmentation/train/0575.png  1  128 278 35 55
+AWEForSegmentation/train/0576.png  1  149 368 47 90
+AWEForSegmentation/train/0577.png  1  80 180 30 39
+AWEForSegmentation/train/0578.png  1  117 102 44 70
+AWEForSegmentation/train/0579.png  1  118 85 56 68
+AWEForSegmentation/train/0580.png  2  132 275 16 57   130 418 24 59
+AWEForSegmentation/train/0581.png  1  112 359 55 78
+AWEForSegmentation/train/0582.png  1  98 60 58 50
+AWEForSegmentation/train/0583.png  1  131 15 56 82
+AWEForSegmentation/train/0584.png  1  110 235 30 69
+AWEForSegmentation/train/0585.png  1  162 351 56 121
+AWEForSegmentation/train/0586.png  1  129 315 55 101
+AWEForSegmentation/train/0587.png  1  67 250 29 26
+AWEForSegmentation/train/0588.png  1  165 332 57 80
+AWEForSegmentation/train/0589.png  2  69 346 14 20   76 105 14 21
+AWEForSegmentation/train/0590.png  1  95 284 57 48
+AWEForSegmentation/train/0591.png  1  133 174 32 51
+AWEForSegmentation/train/0592.png  1  67 139 39 46
+AWEForSegmentation/train/0593.png  1  105 288 25 38
+AWEForSegmentation/train/0594.png  1  135 346 32 65
+AWEForSegmentation/train/0595.png  1  139 355 58 69
+AWEForSegmentation/train/0596.png  1  132 148 38 63
+AWEForSegmentation/train/0597.png  1  174 41 87 85
+AWEForSegmentation/train/0598.png  1  143 172 47 66
+AWEForSegmentation/train/0599.png  1  94 278 32 37
+AWEForSegmentation/train/0600.png  1  130 52 44 83
+AWEForSegmentation/train/0601.png  1  139 272 34 45
+AWEForSegmentation/train/0602.png  1  89 308 23 79
+AWEForSegmentation/train/0603.png  2  124 360 25 74   124 57 51 76
+AWEForSegmentation/train/0604.png  1  161 402 45 93
+AWEForSegmentation/train/0605.png  2  91 315 17 71   104 108 40 70
+AWEForSegmentation/train/0606.png  2  135 47 18 87   152 353 64 94
+AWEForSegmentation/train/0607.png  1  82 141 14 44
+AWEForSegmentation/train/0608.png  1  203 42 54 89
+AWEForSegmentation/train/0609.png  1  129 384 59 81
+AWEForSegmentation/train/0610.png  1  56 334 45 114
+AWEForSegmentation/train/0611.png  1  105 316 35 55
+AWEForSegmentation/train/0612.png  1  128 361 18 57
+AWEForSegmentation/train/0613.png  2  138 422 18 105   159 113 51 106
+AWEForSegmentation/train/0614.png  1  125 342 46 65
+AWEForSegmentation/train/0615.png  1  137 76 37 54
+AWEForSegmentation/train/0616.png  1  121 340 32 58
+AWEForSegmentation/train/0617.png  1  107 321 26 68
+AWEForSegmentation/train/0618.png  1  92 156 49 65
+AWEForSegmentation/train/0619.png  1  111 133 36 45
+AWEForSegmentation/train/0620.png  1  74 314 20 35
+AWEForSegmentation/train/0621.png  1  78 23 35 99
+AWEForSegmentation/train/0622.png  1  77 119 21 34
+AWEForSegmentation/train/0623.png  2  96 201 21 53   117 328 27 50
+AWEForSegmentation/train/0624.png  1  87 267 33 47
+AWEForSegmentation/train/0625.png  1  137 170 65 54
+AWEForSegmentation/train/0626.png  1  139 338 62 71
+AWEForSegmentation/train/0627.png  2  106 173 20 57   137 348 45 52
+AWEForSegmentation/train/0628.png  1  103 186 44 40
+AWEForSegmentation/train/0629.png  1  125 248 71 72
+AWEForSegmentation/train/0630.png  1  131 218 69 58
+AWEForSegmentation/train/0631.png  1  147 263 95 44
+AWEForSegmentation/train/0632.png  1  105 165 27 33
+AWEForSegmentation/train/0633.png  1  154 129 42 67
+AWEForSegmentation/train/0634.png  1  136 216 42 77
+AWEForSegmentation/train/0635.png  1  128 327 35 73
+AWEForSegmentation/train/0636.png  1  76 267 38 37
+AWEForSegmentation/train/0637.png  2  75 172 21 30   85 323 28 30
+AWEForSegmentation/train/0638.png  2  36 279 24 17   142 270 29 20
+AWEForSegmentation/train/0639.png  1  65 134 19 37
+AWEForSegmentation/train/0640.png  1  115 304 22 63
+AWEForSegmentation/train/0641.png  2  66 415 16 23   80 85 15 26
+AWEForSegmentation/train/0642.png  1  85 395 42 114
+AWEForSegmentation/train/0643.png  1  125 59 77 61
+AWEForSegmentation/train/0644.png  1  98 352 51 87
+AWEForSegmentation/train/0645.png  1  53 138 28 35
+AWEForSegmentation/train/0646.png  1  104 355 51 76
+AWEForSegmentation/train/0647.png  1  89 192 19 55
+AWEForSegmentation/train/0648.png  1  75 274 17 35
+AWEForSegmentation/train/0649.png  1  71 150 31 36
+AWEForSegmentation/train/0650.png  1  96 87 19 58
+AWEForSegmentation/train/0651.png  1  164 121 48 103
+AWEForSegmentation/train/0652.png  1  132 419 30 79
+AWEForSegmentation/train/0653.png  1  94 400 27 69
+AWEForSegmentation/train/0654.png  1  145 31 39 88
+AWEForSegmentation/train/0655.png  1  195 198 21 52
+AWEForSegmentation/train/0656.png  1  166 87 41 71
+AWEForSegmentation/train/0657.png  1  110 384 27 78
+AWEForSegmentation/train/0658.png  1  191 116 46 72
+AWEForSegmentation/train/0659.png  1  95 338 68 135
+AWEForSegmentation/train/0660.png  1  94 288 17 37
+AWEForSegmentation/train/0661.png  1  190 49 81 63
+AWEForSegmentation/train/0662.png  1  119 307 32 90
+AWEForSegmentation/train/0663.png  1  145 128 43 43
+AWEForSegmentation/train/0664.png  1  175 255 27 56
+AWEForSegmentation/train/0665.png  1  131 332 23 68
+AWEForSegmentation/train/0666.png  1  129 145 31 69
+AWEForSegmentation/train/0667.png  1  56 13 64 137
+AWEForSegmentation/train/0668.png  2  128 348 31 67   162 204 24 59
+AWEForSegmentation/train/0669.png  2  112 115 35 123   159 312 37 116
+AWEForSegmentation/train/0670.png  1  147 369 40 83
+AWEForSegmentation/train/0671.png  1  146 33 71 77
+AWEForSegmentation/train/0672.png  1  102 427 42 73
+AWEForSegmentation/train/0673.png  1  116 92 29 50
+AWEForSegmentation/train/0674.png  1  121 331 43 54
+AWEForSegmentation/train/0675.png  2  128 352 46 60   162 113 40 50
+AWEForSegmentation/train/0676.png  1  158 369 39 70
+AWEForSegmentation/train/0677.png  1  127 361 55 76
+AWEForSegmentation/train/0678.png  1  124 37 70 96
+AWEForSegmentation/train/0679.png  1  139 182 29 83
+AWEForSegmentation/train/0680.png  2  114 310 23 85   121 139 30 85
+AWEForSegmentation/train/0681.png  2  119 77 44 71   130 369 62 69
+AWEForSegmentation/train/0682.png  2  127 87 51 85   134 366 34 80
+AWEForSegmentation/train/0683.png  2  144 351 52 70   159 83 40 67
+AWEForSegmentation/train/0684.png  2  125 81 26 56   161 335 62 55
+AWEForSegmentation/train/0685.png  1  137 340 67 79
+AWEForSegmentation/train/0686.png  1  120 122 36 58
+AWEForSegmentation/train/0687.png  1  91 132 37 47
+AWEForSegmentation/train/0688.png  1  142 61 66 65
+AWEForSegmentation/train/0689.png  1  125 333 41 61
+AWEForSegmentation/train/0690.png  2  52 201 15 27   63 325 19 28
+AWEForSegmentation/train/0691.png  2  132 293 22 81   152 114 27 76
+AWEForSegmentation/train/0692.png  1  129 372 50 62
+AWEForSegmentation/train/0693.png  1  110 312 27 51
+AWEForSegmentation/train/0694.png  1  96 311 39 43
+AWEForSegmentation/train/0695.png  1  128 277 25 60
+AWEForSegmentation/train/0696.png  1  126 370 50 64
+AWEForSegmentation/train/0697.png  1  99 96 29 80
+AWEForSegmentation/train/0698.png  1  126 90 26 65
+AWEForSegmentation/train/0699.png  2  34 349 27 146   51 118 28 139
+AWEForSegmentation/train/0700.png  1  103 84 25 75
+AWEForSegmentation/train/0701.png  2  65 336 14 36   68 177 20 35
+AWEForSegmentation/train/0702.png  2  57 46 37 43   192 286 26 21
+AWEForSegmentation/train/0703.png  1  118 299 35 65
+AWEForSegmentation/train/0704.png  1  112 262 30 54
+AWEForSegmentation/train/0705.png  1  74 338 39 84
+AWEForSegmentation/train/0706.png  1  154 17 68 86
+AWEForSegmentation/train/0707.png  1  86 337 98 80
+AWEForSegmentation/train/0708.png  1  102 259 28 64
+AWEForSegmentation/train/0709.png  2  136 195 7 54   156 73 29 56
+AWEForSegmentation/train/0710.png  1  136 277 43 91
+AWEForSegmentation/train/0711.png  1  135 301 41 78
+AWEForSegmentation/train/0712.png  2  120 207 19 50   128 306 15 48
+AWEForSegmentation/train/0713.png  1  96 170 20 36
+AWEForSegmentation/train/0714.png  2  110 111 24 65   110 359 44 67
+AWEForSegmentation/train/0715.png  1  132 157 27 60
+AWEForSegmentation/train/0716.png  1  117 79 41 68
+AWEForSegmentation/train/0717.png  1  112 313 50 65
+AWEForSegmentation/train/0718.png  2  95 347 17 46   99 114 48 47
+AWEForSegmentation/train/0719.png  1  117 44 66 61
+AWEForSegmentation/train/0720.png  2  100 167 17 78   123 328 37 76
+AWEForSegmentation/train/0721.png  1  117 74 52 75
+AWEForSegmentation/train/0722.png  1  110 354 63 83
+AWEForSegmentation/train/0723.png  1  116 147 30 84
+AWEForSegmentation/train/0724.png  1  94 148 51 57
+AWEForSegmentation/train/0725.png  1  112 126 55 48
+AWEForSegmentation/train/0726.png  1  75 276 23 47
+AWEForSegmentation/train/0727.png  1  99 156 34 69
+AWEForSegmentation/train/0728.png  1  52 388 78 153
+AWEForSegmentation/train/0729.png  1  150 317 59 96
+AWEForSegmentation/train/0730.png  2  117 276 18 57   118 403 17 57
+AWEForSegmentation/train/0731.png  1  155 108 61 114
+AWEForSegmentation/train/0732.png  1  131 212 36 63
+AWEForSegmentation/train/0733.png  1  113 278 30 55
+AWEForSegmentation/train/0734.png  1  107 177 23 65
+AWEForSegmentation/train/0735.png  1  98 125 28 44
+AWEForSegmentation/train/0736.png  1  123 103 25 86
+AWEForSegmentation/train/0737.png  1  124 326 24 61
+AWEForSegmentation/train/0738.png  1  90 158 18 29
+AWEForSegmentation/train/0739.png  1  100 312 38 52
+AWEForSegmentation/train/0740.png  1  136 327 24 57
+AWEForSegmentation/train/0741.png  2  107 97 18 38   96 337 34 52
+AWEForSegmentation/train/0742.png  1  55 104 32 76
+AWEForSegmentation/train/0743.png  1  102 285 47 98
+AWEForSegmentation/train/0744.png  1  112 87 16 37
+AWEForSegmentation/train/0745.png  1  125 308 24 52
+AWEForSegmentation/train/0746.png  1  75 51 64 137
+AWEForSegmentation/train/0747.png  1  84 307 64 57
+AWEForSegmentation/train/0748.png  1  109 137 33 62
+AWEForSegmentation/train/0749.png  1  101 62 53 120
+AWEForSegmentation/train/0750.png  2  123 123 29 64   127 295 19 63
