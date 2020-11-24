@@ -1,3 +1,4 @@
 .idea/
 AWEForSegmentation/
 opencv/
+__pycache__/
