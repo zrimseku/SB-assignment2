@@ -15,7 +15,7 @@ def positive_description_file():
                 if mask[i, j]:
                     if i == 0 or not mask[i-1, j]:                  # upper row
                         if j == 0 or not mask[i, j-1]:              # upper left corner
-                            unfinished[j] = {'start_x': i}          # there can only be one unfinished on y=j
+                            unfinished[j] = {'start_y': i}          # there can only be one unfinished on y=j
                             width = 0
                             while j < mask.shape[1] and mask[i, j]:
                                 j += 1
@@ -24,8 +24,8 @@ def positive_description_file():
                     elif mask[i-1, j] and mask[i+1, j]:             # left column
                         j += unfinished[j]['width']
                     elif mask[i-1, j] and not mask[i+1, j]:         # lower left corner
-                        height = i - unfinished[j]['start_x'] + 1
-                        info[photo].append([unfinished[j]['start_x'], j, unfinished[j]['width'], height])
+                        height = i - unfinished[j]['start_y'] + 1
+                        info[photo].append([j, unfinished[j]['start_y'], unfinished[j]['width'], height])
                         j += unfinished[j]['width']
                     else:
                         print(photo, i, j)
