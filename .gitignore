@@ -1,4 +1,10 @@
 .idea/
 AWEForSegmentation/
 opencv/
+neg_img_gs/
+no_people/
+room_photos/
 __pycache__/
+COCO/
+cascade/
+cascadetrain commands.txt
