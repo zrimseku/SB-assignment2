@@ -8,3 +8,7 @@ __pycache__/
 COCO/
 cascade/
 cascadetrain commands.txt
+all_images/
+test_visual/
+test_vis/
+coco_incl_people/
