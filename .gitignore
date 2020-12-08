@@ -14,5 +14,4 @@ test_visual/
 test_vis/
 coco_incl_people/
 all_cascades/
-test_vis_100/
-test_vis_30/
+test/
