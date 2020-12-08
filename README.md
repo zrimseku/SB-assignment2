@@ -29,8 +29,10 @@ the repository in folders with names as written in argument -data:
   - `opencv_traincascade.exe -data cascade_gs_all_maxFAR03/ -vec pos.vec -bg negative_gs.txt -w 24 -h 24 -numPos 800 -numNeg 3000 -numStages 10 -mode ALL -maxFalseAlarmRate 0.3`
   - `opencv_traincascade.exe -data cascade_coco/ -vec pos.vec -bg negative_coco.txt -w 24 -h 24 -numPos 800 -numNeg 3000 -numStages 10`
   - `opencv_traincascade.exe -data cascade_coco_people/ -vec pos.vec -bg negative_coco_people.txt -w 24 -h 24 -numPos 800 -numNeg 4500 -numStages 10`
-
+  - `opencv_traincascade.exe -data cascade_coco_people_all_maxFAR03/ -vec pos.vec -bg negative_coco_people.txt -w 24 -h 24 -numPos 800 -numNeg 4500 -numStages 10 -mode ALL -maxFalseAlarmRate 0.3`
+ 
 ### Models
-All the trained cascades are available in folders *cascade_*. I propose you use ????, from my testing it has the best results. 
+All the trained cascades are available in folders *cascade_*. I propose you use `cascade_coco_people_all_maxFAR03`, 
+from my testing it has the best results. For detection choose parameters `scaleFactor` 1.1 and `minNeighbours` 6.
 You can read more in the report `ZrimsekUrsa2.pdf`.
 You can check how they work live with function `camera_test()` in `testing.ipynb` or use them for detecting ears on images with support of `cv2` python library.
