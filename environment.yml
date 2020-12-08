@@ -119,4 +119,3 @@ dependencies:
     - numpy==1.19.4
     - opencv-python==4.4.0.46
     - pycocotools-windows==2.0.0.2
-prefix: C:\Users\ursau\AppData\Local\Programs\Anaconda\envs\assignment-2
